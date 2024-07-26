@@ -9,10 +9,6 @@ def break_down_text():
     with open(file_path, "r") as text:
         new_text = text.read()
 
-    paragraphs = new_text.split("\n")
-    list_paragraphs = []
-    for i in range(len(paragraphs)):
-        n = len(paragraphs)
-        list_paragraphs.append([paragraphs[i], n])
+    list_paragraphs = [new_text, len(new_text)]
 
     return list_paragraphs
