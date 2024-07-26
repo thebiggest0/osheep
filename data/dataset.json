@@ -1,0 +1,98 @@
+[
+    {
+        "instruction": "How does AIDA (Artificial Intelligence Act) hold businesses responsible for their AI activities",
+        "response": "The purpose of AIDA (Artificial Intelligence Act) is to hold businesses responsible for the AI activities under their control. It aims to ensure the safety and fairness of high-impact AI systems throughout their lifecycle.",
+        "input": "Under the AIDA, businesses will be held responsible for the AI activities under their control. They will be required to implement new governance mechanisms and policies that will consider and address the risks of their AI system and give users enough information to make informed decisions.The AIDA will introduce new requirements for businesses to ensure the safety and fairness of high-impact AI systems every step of the way."
+    },
+    {
+        "instruction": "Describe the requirements for businesses under AIDA (Artificial Intelligence Act) in the design phase",
+        "response": "In the design phase, businesses will be required to identify and address the risks of their AI system with regard to harm and bias and keep relevant records.",
+        "input": "Design: Businesses will be required to identify and address the risks of their AI system with regard to harm and bias and to keep relevant records."
+    },
+    {
+        "instruction": "What are the requirements for businesses during development under AIDA (Artificial Intelligence Act)?",
+        "response": "During the development phase, businesses will be required to assess the intended uses and limitations of their AI system and make sure users understand them.",
+        "input": "Development: Businesses will be required to assess the intended uses and limitations of their AI system and make sure users understand them."
+    },
+    {
+        "instruction": "What are the requirements for businesses during deployment under AIDA (Artificial Intelligence Act)?",
+        "response": "During the deployment phase, businesses will be required to put in place appropriate risk mitigation strategies and ensure systems are continually monitored.",
+        "input": "Deployment: Businesses will be required to put in place appropriate risk mitigation strategies and ensure systems are continually monitored."
+    },
+    {
+        "instruction": "How does AIDA (Artificial Intelligence Act) approach safety obligations for different AI systems?",
+        "response": "Safety obligations under AIDA are tailored to the type of AI systems. The more risks associated with an AI system, the more obligations there will be.",
+        "input": "The idea is to have a flexible policy, where safety obligations are tailored to the type of AI systems. The more risks are associated with an AI system, the more obligations there will be."
+    },
+    {
+        "instruction": "Summarize the purpose of the proposed AIDA Act",
+        "response": "The purpose of the proposed Act is to provide a meaningful framework for improving accountability in the use of Artificial Intelligence (AI) systems through detailed regulations.",
+        "input": "The proposed Act is designed to provide a meaningful framework that will be completed and brought into effect through detailed regulations."
+    },
+    {
+        "instruction": "Describe how these new AIDA regulations will be built",
+        "response": "These new regulations will build on existing best practices and aim to be interoperable with existing and future regulatory approaches by drawing on common standards.",
+        "input": "These new regulations would build on existing best practices, with the intent to be interoperable with existing and future regulatory approaches. By drawing on common standards, the government is hoping to ease compliance."
+    },
+    {
+        "instruction": "For AIDA what is the commitment of the Government of Canada regarding the regulatory development process?",
+        "response": "The Government of Canada is committed to making the regulatory development process open, transparent, and inclusive. This includes broad consultations with the public, key stakeholders like AI industry leaders, academics, and civil society.",
+        "input": "The regulatory development process will be open and transparent. The Government of Canada is committed to broad and inclusive consultations with the public and key stakeholders, including AI industry leaders, academics and civil society, to ensure that the new regulations meet the expectations of Canadians."
+    },
+    {
+        "instruction": "For AIDA who will be responsible for monitoring compliance and ensuring safety in the new regulations?",
+        "response": "A new AI and Data Commissioner will be appointed to monitor compliance and intervene if necessary to ensure that AI systems are safe and non-discriminatory.",
+        "input": "The Minister of Innovation, Science and Industry will be supported by a new AI and Data Commissioner, who will be empowered to monitor compliance and intervene if necessary to ensure that AI systems are safe and non-discriminatory."
+    },
+    {
+        "instruction": "Where can more information about these regulations of AIDA be found?",
+        "response": "More information about the regulations can be found in the Artificial Intelligence and Data Act (AIDA) - companion document https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document",
+        "input": "Read the Artificial Intelligence and Data Act (AIDA) companion document for more information on how these regulations will be developed."
+    },
+    {
+        "instruction": "Summarize key points about the proposed Artificial Intelligence and Data Act (AIDA)",
+        "response": "The proposed AIDA, part of the Digital Charter Implementation Act, 2022, aims to establish a foundation for responsible AI system design, development, and deployment in Canada. The primary focus is on ensuring AI systems are safe and non-discriminatory. Additionally, it holds businesses accountable for their development and use of these technologies.",
+        "input": ""
+    },
+    {
+        "instruction": "Identify the purpose of the proposed AIDA",
+        "response": "The purpose of the proposed AIDA is to establish a foundation for responsible design, development, and deployment of AI systems in Canada.",
+        "input": "The proposed Artificial Intelligence and Data Act (AIDA), introduced as part of the Digital Charter Implementation Act, 2022, would set the foundation for the responsible design, development and deployment of AI systems that impact the lives of Canadians."
+    },
+    {
+        "instruction": "Determine where the proposed AIDA comes from",
+        "response": "The proposed AIDA is part of the Digital Charter Implementation Act, 2022.",
+        "input": ""
+    },
+    {
+        "instruction": "Find out the key aspects the proposed AIDA aims to regulate",
+        "response": "The key aspects the proposed AIDA aims to regulate include ensuring AI systems deployed in Canada are safe and non-discriminatory, and holding businesses accountable for their development and use of these technologies.",
+        "input": "The Act would ensure that AI systems deployed in Canada are safe and non-discriminatory and would hold businesses accountable for how they develop and use these technologies."
+    },
+    {
+        "instruction": "Identify who will be affected by the proposed AIDA",
+        "response": "The businesses developing and using AI technologies in Canada will be affected by the proposed AIDA.",
+        "input": ""
+    },
+    {
+        "instruction": "Extract key points about the AIDA for businesses",
+        "response": {
+            "business_benefits": "clear rules to help them innovate and realize the full potential of AI",
+            "international_market_access": "supports international market access for larger Canadian businesses"
+        },
+        "input": "The AIDA offers a balanced approach to regulating AI that will support responsible innovation and ensure international market access for larger Canadian businesses, while also considering the needs of small and medium-sized businesses. For businesses, this means clear rules to help them innovate and realize the full potential of AI."
+    },
+    {
+        "instruction": "Extract key points about the AIDA for Canadians",
+        "response": {
+            "safety_assurance": "AI systems used in Canada will be safe",
+            "citizen_interest": "developed with their best interest in mind"
+        },
+        "input": "For Canadians, it means AI systems used in Canada will be safe and developed with their best interest in mind."
+    },
+    {
+        "instruction": "Extract information about the Government of Canada's involvement",
+        "response": "The Government of Canada remains actively engaged in international discussions on AI regulations and continues to work with partners around the world to drive collaboration and ensure alignment in the responsible development and use of AI.",
+        "input": "The Government of Canada remains actively engaged in international discussions on AI regulations and continues to work with partners around the world to drive collaboration and ensure alignment in the responsible development and use of AI."
+    }
+]
